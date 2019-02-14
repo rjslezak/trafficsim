@@ -1,6 +1,4 @@
-# trafficsim
-
-Traffic Simulation Using Livestream Footage
+# Traffic Simulation Using Livestream Footage
 
 This is a project I have done for HCI/CPRE 575: Computational Perception
 
